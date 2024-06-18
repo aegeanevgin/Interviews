@@ -6,4 +6,4 @@ Data Engineering Interview Questions
 
 ## Questions:
 ### 1- What is Normalization in SQL?
-    - 
+- Normalization is, 
