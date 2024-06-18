@@ -5,4 +5,5 @@ Data Engineering Interview Questions
 - `__future__` (Imports from future library versions)
 
 ## Questions:
-### What is Normalization in SQL?
+### 1- What is Normalization in SQL?
+    - 
